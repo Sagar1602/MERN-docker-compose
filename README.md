@@ -32,6 +32,8 @@ docker build -t mern-backend .
 
 ### Run the server
 
+completed
+
 `docker run --name=backend --network=demo -d -p 5050:5050 mern-backend`
 
 ## Using Docker Compose
